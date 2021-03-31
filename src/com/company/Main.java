@@ -10,6 +10,7 @@ public class Main {
     public static int[] heroesDamages = {15, 20, 25, 0, 5};
     public static String[] heroesAttackType = {"Physical", "Magical", "Telepathic", "Medical", "Golem"};
     public static int medichelp = 50;
+    int name = 33;
 
 
     public static void heroesMedical() {
